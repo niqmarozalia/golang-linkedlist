@@ -1,1 +1,3 @@
-# golang-linkedlist
+# Golang-linkedlist
+
+Pengunaan linked list
